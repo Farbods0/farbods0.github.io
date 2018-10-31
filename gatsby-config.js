@@ -4,7 +4,7 @@ module.exports = {
     author: "Farbod Jahan",
     description: "A portfolio for Farbod's work"
   },
-  pathPrefix: '/farbods0.github.io',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
