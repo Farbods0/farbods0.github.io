@@ -93,7 +93,8 @@ class Template extends React.Component {
         autoplay: 1,
         controls: 0,
         rel: 0,
-        showinfo: 0
+        showinfo: 0,
+        start: 3.5,        
       }
     };
 
