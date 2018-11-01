@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{124:function(o,t){o.exports={data:{site:{siteMetadata:{title:"Farbod Jahan Portfolio",description:"A portfolio for Farbod's work"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----dad93dfc3d17a1bcfbf3.js.map
